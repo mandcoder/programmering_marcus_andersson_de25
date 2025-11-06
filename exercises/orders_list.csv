@@ -1,0 +1,101 @@
+customer_id,product,quantity,price,seller_id,city
+C010,printer,4,72.38,S117,Dallas
+C018,webcam,3,513.74,S113,Chicago
+C008,headphones,1,802.2,S103,San Antonio
+C001,headphones,5,1202.27,S119,San Antonio
+C008,printer,2,44.69,S116,New York
+C019,webcam,2,1482.2,S108,San Antonio
+C014,headphones,4,1035.06,S115,Chicago
+C005,tablet,5,766.07,S115,Philadelphia
+C016,mouse,4,720.76,S110,San Diego
+C006,router,4,907.6,S101,Dallas
+C007,tablet,5,329.74,S104,Los Angeles
+C007,webcam,1,1261.03,S114,Houston
+C006,tablet,1,677.89,S106,Los Angeles
+C012,router,1,498.57,S112,Dallas
+C014,mouse,1,576.45,S102,San Diego
+C012,monitor,4,683.27,S104,Dallas
+C008,router,4,1370.01,S106,Houston
+C002,mouse,4,950.11,S113,New York
+C014,printer,5,1417.51,S112,New York
+C007,speaker,2,1475.27,S114,New York
+C008,laptop,4,1426.13,S104,Chicago
+C011,laptop,5,800.0,S109,Houston
+C010,keyboard,2,1491.84,S113,Los Angeles
+C011,tablet,3,577.05,S114,Phoenix
+C019,keyboard,1,824.62,S119,Chicago
+C012,speaker,5,1401.99,S119,New York
+C007,monitor,5,316.02,S102,Los Angeles
+C001,router,4,1439.58,S110,San Antonio
+C011,keyboard,4,149.08,S102,Chicago
+C016,headphones,5,238.78,S108,Phoenix
+C006,mouse,4,1166.66,S106,New York
+C003,laptop,2,1443.59,S102,Los Angeles
+C002,webcam,3,782.11,S112,San Diego
+C014,laptop,4,800.0,S104,Dallas
+C017,tablet,3,721.22,S115,Houston
+C012,tablet,1,96.41,S112,San Antonio
+C004,mouse,3,1092.78,S118,Philadelphia
+C016,keyboard,5,436.32,S120,San Francisco
+C015,printer,2,595.44,S117,Houston
+C015,mouse,5,752.02,S115,Philadelphia
+C016,laptop,4,800.0,S119,Houston
+C017,mouse,5,845.51,S109,San Antonio
+C010,monitor,2,123.74,S109,Houston
+C011,headphones,2,343.36,S117,San Diego
+C005,printer,3,1121.19,S108,Philadelphia
+C009,router,2,1002.76,S117,San Francisco
+C020,keyboard,1,1360.72,S111,New York
+C018,printer,5,428.37,S120,Philadelphia
+C018,speaker,1,926.32,S120,San Diego
+C008,speaker,3,233.19,S110,San Antonio
+C017,laptop,4,800.0,S117,Phoenix
+C019,monitor,2,1142.94,S110,Los Angeles
+C001,headphones,2,1128.17,S115,New York
+C012,keyboard,4,674.42,S116,Phoenix
+C019,speaker,3,700.32,S118,Houston
+C006,tablet,5,1406.92,S118,San Diego
+C020,monitor,2,31.05,S115,New York
+C013,monitor,3,78.74,S108,San Diego
+C016,headphones,2,60.71,S107,San Diego
+C004,mouse,3,787.27,S119,Philadelphia
+C011,speaker,4,1258.57,S104,San Diego
+C007,speaker,2,185.2,S104,San Diego
+C020,webcam,3,1083.8,S109,Philadelphia
+C004,keyboard,4,878.78,S103,Philadelphia
+C008,mouse,3,444.76,S110,Houston
+C016,webcam,3,49.38,S118,Philadelphia
+C017,router,5,564.64,S105,Los Angeles
+C006,laptop,5,1441.03,S102,New York
+C012,printer,4,1118.96,S106,Dallas
+C008,webcam,1,1347.53,S120,Dallas
+C005,tablet,5,1448.61,S111,Houston
+C020,headphones,1,772.65,S119,Chicago
+C010,keyboard,4,1238.88,S104,Houston
+C011,printer,2,687.11,S110,New York
+C012,tablet,1,321.1,S107,Philadelphia
+C017,mouse,5,1433.95,S115,San Antonio
+C001,keyboard,2,920.22,S108,Philadelphia
+C006,tablet,1,1063.25,S114,Houston
+C018,laptop,5,1134.18,S110,Los Angeles
+C002,speaker,2,1117.05,S117,Los Angeles
+C020,webcam,5,434.7,S120,Phoenix
+C011,monitor,4,1470.0,S110,Dallas
+C018,monitor,1,1195.44,S101,New York
+C007,laptop,4,1054.58,S102,New York
+C009,webcam,1,186.88,S110,Chicago
+C009,monitor,4,1008.08,S115,San Antonio
+C008,tablet,5,622.21,S109,Philadelphia
+C015,mouse,2,218.92,S118,Chicago
+C009,keyboard,1,860.68,S103,Chicago
+C012,webcam,5,902.01,S108,Dallas
+C010,speaker,3,576.98,S110,Philadelphia
+C015,tablet,4,946.63,S114,San Antonio
+C008,mouse,2,799.48,S106,Dallas
+C017,router,2,161.54,S103,San Diego
+C005,mouse,5,1082.2,S103,Los Angeles
+C016,tablet,3,995.08,S104,San Francisco
+C017,laptop,4,1074.67,S109,San Antonio
+C019,router,1,1194.47,S120,San Diego
+C001,keyboard,3,1460.49,S106,New York
+C015,printer,3,1403.22,S103,Dallas

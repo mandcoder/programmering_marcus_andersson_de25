@@ -7,6 +7,26 @@ class Shape:
         self.x = x
         self.y = y
 
+    @property
+    def x(self):
+        return self._x
+
+    @x.setter
+    def x(self, value):
+        if not isinstance(value, (int, float)):
+            raise TypeError("x coordinate must be a number (int or float)")
+        self._x = value
+
+    @property
+    def y(self):
+        return self._y
+
+    @y.setter
+    def y(self, value):
+        if not isinstance(value, (int, float)):
+            raise TypeError("y coordinate must be a number (int or float)")
+        self._y = value
+
     def translate(self, dx, dy):
         """Translates (moves) the shape by a given offset in the x and y directions.
         This method updates the current position of the shape by adding dx and dy
@@ -26,11 +46,9 @@ class Shape:
         pass
 
     def __repr__(self):
-        # developer-friendly string representation ( for debugging)
         return f"Shape x={self.x}, y={self.y}"
 
     def __str__(self):
-        # user-friendly description of the shapes position
         return f"Shape is positioned at coordinates (x={self.x}, y={self.y})"
 
     # function to check if other is a shape
@@ -45,7 +63,6 @@ class Shape:
     # six overload operators with comparision based on area
     def __lt__(self, other):
 
-        # less than (<)
         if self.check_shape(other):
 
             return self.area < other.area

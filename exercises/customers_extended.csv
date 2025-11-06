@@ -1,0 +1,16 @@
+personal_number,name,account_number,account_type,balance
+19800101-1234,Anna Svensson,100-1001,savings,5400.5
+19800101-1234,Anna Svensson,100-2001,transactions,1200.0
+19791212-4567,Erik Johansson,100-1002,savings,3200.0
+19791212-4567,Erik Johansson,100-2002,transactions,950.0
+19850315-7890,Maria Lind,100-1003,savings,4500.75
+19850315-7890,Maria Lind,100-2003,transactions,1800.25
+19770222-2345,Karl Nilsson,100-1004,savings,6100.0
+19770222-2345,Karl Nilsson,100-2004,transactions,3000.5
+19901130-3456,Lena Andersson,100-1005,savings,7200.25
+19901130-3456,Lena Andersson,100-2005,transactions,1500.0
+19890610-5555,Bo Persson,100-1006,savings,0.0
+19920420-6666,Oskar Karlsson,100-1007,transactions,250.0
+19970715-7777,Eva Eriksson,100-1008,savings,8900.0
+19840411-8888,Jonas Svensson,100-1009,transactions,7500.0
+19951225-9999,Sara Berg,100-1010,savings,6800.0

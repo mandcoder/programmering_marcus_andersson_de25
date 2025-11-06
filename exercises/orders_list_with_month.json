@@ -1,0 +1,902 @@
+[
+    {
+        "customer_id": "C010",
+        "product": "printer",
+        "quantity": 4,
+        "price": 72.38,
+        "seller_id": "S117",
+        "city": "Dallas",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C018",
+        "product": "webcam",
+        "quantity": 3,
+        "price": 513.74,
+        "seller_id": "S113",
+        "city": "Chicago",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C008",
+        "product": "headphones",
+        "quantity": 1,
+        "price": 802.2,
+        "seller_id": "S103",
+        "city": "San Antonio",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C001",
+        "product": "headphones",
+        "quantity": 5,
+        "price": 1202.27,
+        "seller_id": "S119",
+        "city": "San Antonio",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C008",
+        "product": "printer",
+        "quantity": 2,
+        "price": 44.69,
+        "seller_id": "S116",
+        "city": "New York",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C019",
+        "product": "webcam",
+        "quantity": 2,
+        "price": 1482.2,
+        "seller_id": "S108",
+        "city": "San Antonio",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C014",
+        "product": "headphones",
+        "quantity": 4,
+        "price": 1035.06,
+        "seller_id": "S115",
+        "city": "Chicago",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C005",
+        "product": "tablet",
+        "quantity": 5,
+        "price": 766.07,
+        "seller_id": "S115",
+        "city": "Philadelphia",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C016",
+        "product": "mouse",
+        "quantity": 4,
+        "price": 720.76,
+        "seller_id": "S110",
+        "city": "San Diego",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C006",
+        "product": "router",
+        "quantity": 4,
+        "price": 907.6,
+        "seller_id": "S101",
+        "city": "Dallas",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C007",
+        "product": "tablet",
+        "quantity": 5,
+        "price": 329.74,
+        "seller_id": "S104",
+        "city": "Los Angeles",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C007",
+        "product": "webcam",
+        "quantity": 1,
+        "price": 1261.03,
+        "seller_id": "S114",
+        "city": "Houston",
+        "order_month": "2024-01"
+    },
+    {
+        "customer_id": "C006",
+        "product": "tablet",
+        "quantity": 1,
+        "price": 677.89,
+        "seller_id": "S106",
+        "city": "Los Angeles",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C012",
+        "product": "router",
+        "quantity": 1,
+        "price": 498.57,
+        "seller_id": "S112",
+        "city": "Dallas",
+        "order_month": "2024-03"
+    },
+    {
+        "customer_id": "C014",
+        "product": "mouse",
+        "quantity": 1,
+        "price": 576.45,
+        "seller_id": "S102",
+        "city": "San Diego",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C012",
+        "product": "monitor",
+        "quantity": 4,
+        "price": 683.27,
+        "seller_id": "S104",
+        "city": "Dallas",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C008",
+        "product": "router",
+        "quantity": 4,
+        "price": 1370.01,
+        "seller_id": "S106",
+        "city": "Houston",
+        "order_month": "2024-03"
+    },
+    {
+        "customer_id": "C002",
+        "product": "mouse",
+        "quantity": 4,
+        "price": 950.11,
+        "seller_id": "S113",
+        "city": "New York",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C014",
+        "product": "printer",
+        "quantity": 5,
+        "price": 1417.51,
+        "seller_id": "S112",
+        "city": "New York",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C007",
+        "product": "speaker",
+        "quantity": 2,
+        "price": 1475.27,
+        "seller_id": "S114",
+        "city": "New York",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C008",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 1426.13,
+        "seller_id": "S104",
+        "city": "Chicago",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C011",
+        "product": "laptop",
+        "quantity": 5,
+        "price": 91.49,
+        "seller_id": "S109",
+        "city": "Houston",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C010",
+        "product": "keyboard",
+        "quantity": 2,
+        "price": 1491.84,
+        "seller_id": "S113",
+        "city": "Los Angeles",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C011",
+        "product": "tablet",
+        "quantity": 3,
+        "price": 577.05,
+        "seller_id": "S114",
+        "city": "Phoenix",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C019",
+        "product": "keyboard",
+        "quantity": 1,
+        "price": 824.62,
+        "seller_id": "S119",
+        "city": "Chicago",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C012",
+        "product": "speaker",
+        "quantity": 5,
+        "price": 1401.99,
+        "seller_id": "S119",
+        "city": "New York",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C007",
+        "product": "monitor",
+        "quantity": 5,
+        "price": 316.02,
+        "seller_id": "S102",
+        "city": "Los Angeles",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C001",
+        "product": "router",
+        "quantity": 4,
+        "price": 1439.58,
+        "seller_id": "S110",
+        "city": "San Antonio",
+        "order_month": "2024-01"
+    },
+    {
+        "customer_id": "C011",
+        "product": "keyboard",
+        "quantity": 4,
+        "price": 149.08,
+        "seller_id": "S102",
+        "city": "Chicago",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C016",
+        "product": "headphones",
+        "quantity": 5,
+        "price": 238.78,
+        "seller_id": "S108",
+        "city": "Phoenix",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C006",
+        "product": "mouse",
+        "quantity": 4,
+        "price": 1166.66,
+        "seller_id": "S106",
+        "city": "New York",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C003",
+        "product": "laptop",
+        "quantity": 2,
+        "price": 1443.59,
+        "seller_id": "S102",
+        "city": "Los Angeles",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C002",
+        "product": "webcam",
+        "quantity": 3,
+        "price": 782.11,
+        "seller_id": "S112",
+        "city": "San Diego",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C014",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 270.5,
+        "seller_id": "S104",
+        "city": "Dallas",
+        "order_month": "2024-03"
+    },
+    {
+        "customer_id": "C017",
+        "product": "tablet",
+        "quantity": 3,
+        "price": 721.22,
+        "seller_id": "S115",
+        "city": "Houston",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C012",
+        "product": "tablet",
+        "quantity": 1,
+        "price": 96.41,
+        "seller_id": "S112",
+        "city": "San Antonio",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C004",
+        "product": "mouse",
+        "quantity": 3,
+        "price": 1092.78,
+        "seller_id": "S118",
+        "city": "Philadelphia",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C016",
+        "product": "keyboard",
+        "quantity": 5,
+        "price": 436.32,
+        "seller_id": "S120",
+        "city": "San Francisco",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C015",
+        "product": "printer",
+        "quantity": 2,
+        "price": 595.44,
+        "seller_id": "S117",
+        "city": "Houston",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C015",
+        "product": "mouse",
+        "quantity": 5,
+        "price": 752.02,
+        "seller_id": "S115",
+        "city": "Philadelphia",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C016",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 634.52,
+        "seller_id": "S119",
+        "city": "Houston",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C017",
+        "product": "mouse",
+        "quantity": 5,
+        "price": 845.51,
+        "seller_id": "S109",
+        "city": "San Antonio",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C010",
+        "product": "monitor",
+        "quantity": 2,
+        "price": 123.74,
+        "seller_id": "S109",
+        "city": "Houston",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C011",
+        "product": "headphones",
+        "quantity": 2,
+        "price": 343.36,
+        "seller_id": "S117",
+        "city": "San Diego",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C005",
+        "product": "printer",
+        "quantity": 3,
+        "price": 1121.19,
+        "seller_id": "S108",
+        "city": "Philadelphia",
+        "order_month": "2024-01"
+    },
+    {
+        "customer_id": "C009",
+        "product": "router",
+        "quantity": 2,
+        "price": 1002.76,
+        "seller_id": "S117",
+        "city": "San Francisco",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C020",
+        "product": "keyboard",
+        "quantity": 1,
+        "price": 1360.72,
+        "seller_id": "S111",
+        "city": "New York",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C018",
+        "product": "printer",
+        "quantity": 5,
+        "price": 428.37,
+        "seller_id": "S120",
+        "city": "Philadelphia",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C018",
+        "product": "speaker",
+        "quantity": 1,
+        "price": 926.32,
+        "seller_id": "S120",
+        "city": "San Diego",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C008",
+        "product": "speaker",
+        "quantity": 3,
+        "price": 233.19,
+        "seller_id": "S110",
+        "city": "San Antonio",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C017",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 670.34,
+        "seller_id": "S117",
+        "city": "Phoenix",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C019",
+        "product": "monitor",
+        "quantity": 2,
+        "price": 1142.94,
+        "seller_id": "S110",
+        "city": "Los Angeles",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C001",
+        "product": "headphones",
+        "quantity": 2,
+        "price": 1128.17,
+        "seller_id": "S115",
+        "city": "New York",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C012",
+        "product": "keyboard",
+        "quantity": 4,
+        "price": 674.42,
+        "seller_id": "S116",
+        "city": "Phoenix",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C019",
+        "product": "speaker",
+        "quantity": 3,
+        "price": 700.32,
+        "seller_id": "S118",
+        "city": "Houston",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C006",
+        "product": "tablet",
+        "quantity": 5,
+        "price": 1406.92,
+        "seller_id": "S118",
+        "city": "San Diego",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C020",
+        "product": "monitor",
+        "quantity": 2,
+        "price": 31.05,
+        "seller_id": "S115",
+        "city": "New York",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C013",
+        "product": "monitor",
+        "quantity": 3,
+        "price": 78.74,
+        "seller_id": "S108",
+        "city": "San Diego",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C016",
+        "product": "headphones",
+        "quantity": 2,
+        "price": 60.71,
+        "seller_id": "S107",
+        "city": "San Diego",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C004",
+        "product": "mouse",
+        "quantity": 3,
+        "price": 787.27,
+        "seller_id": "S119",
+        "city": "Philadelphia",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C011",
+        "product": "speaker",
+        "quantity": 4,
+        "price": 1258.57,
+        "seller_id": "S104",
+        "city": "San Diego",
+        "order_month": "2024-05"
+    },
+    {
+        "customer_id": "C007",
+        "product": "speaker",
+        "quantity": 2,
+        "price": 185.2,
+        "seller_id": "S104",
+        "city": "San Diego",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C020",
+        "product": "webcam",
+        "quantity": 3,
+        "price": 1083.8,
+        "seller_id": "S109",
+        "city": "Philadelphia",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C004",
+        "product": "keyboard",
+        "quantity": 4,
+        "price": 878.78,
+        "seller_id": "S103",
+        "city": "Philadelphia",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C008",
+        "product": "mouse",
+        "quantity": 3,
+        "price": 444.76,
+        "seller_id": "S110",
+        "city": "Houston",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C016",
+        "product": "webcam",
+        "quantity": 3,
+        "price": 49.38,
+        "seller_id": "S118",
+        "city": "Philadelphia",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C017",
+        "product": "router",
+        "quantity": 5,
+        "price": 564.64,
+        "seller_id": "S105",
+        "city": "Los Angeles",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C006",
+        "product": "laptop",
+        "quantity": 5,
+        "price": 1441.03,
+        "seller_id": "S102",
+        "city": "New York",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C012",
+        "product": "printer",
+        "quantity": 4,
+        "price": 1118.96,
+        "seller_id": "S106",
+        "city": "Dallas",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C008",
+        "product": "webcam",
+        "quantity": 1,
+        "price": 1347.53,
+        "seller_id": "S120",
+        "city": "Dallas",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C005",
+        "product": "tablet",
+        "quantity": 5,
+        "price": 1448.61,
+        "seller_id": "S111",
+        "city": "Houston",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C020",
+        "product": "headphones",
+        "quantity": 1,
+        "price": 772.65,
+        "seller_id": "S119",
+        "city": "Chicago",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C010",
+        "product": "keyboard",
+        "quantity": 4,
+        "price": 1238.88,
+        "seller_id": "S104",
+        "city": "Houston",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C011",
+        "product": "printer",
+        "quantity": 2,
+        "price": 687.11,
+        "seller_id": "S110",
+        "city": "New York",
+        "order_month": "2024-06"
+    },
+    {
+        "customer_id": "C012",
+        "product": "tablet",
+        "quantity": 1,
+        "price": 321.1,
+        "seller_id": "S107",
+        "city": "Philadelphia",
+        "order_month": "2024-03"
+    },
+    {
+        "customer_id": "C017",
+        "product": "mouse",
+        "quantity": 5,
+        "price": 1433.95,
+        "seller_id": "S115",
+        "city": "San Antonio",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C001",
+        "product": "keyboard",
+        "quantity": 2,
+        "price": 920.22,
+        "seller_id": "S108",
+        "city": "Philadelphia",
+        "order_month": "2024-05"
+    },
+    {
+        "customer_id": "C006",
+        "product": "tablet",
+        "quantity": 1,
+        "price": 1063.25,
+        "seller_id": "S114",
+        "city": "Houston",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C018",
+        "product": "laptop",
+        "quantity": 5,
+        "price": 1134.18,
+        "seller_id": "S110",
+        "city": "Los Angeles",
+        "order_month": "2024-11"
+    },
+    {
+        "customer_id": "C002",
+        "product": "speaker",
+        "quantity": 2,
+        "price": 1117.05,
+        "seller_id": "S117",
+        "city": "Los Angeles",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C020",
+        "product": "webcam",
+        "quantity": 5,
+        "price": 434.7,
+        "seller_id": "S120",
+        "city": "Phoenix",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C011",
+        "product": "monitor",
+        "quantity": 4,
+        "price": 1470.0,
+        "seller_id": "S110",
+        "city": "Dallas",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C018",
+        "product": "monitor",
+        "quantity": 1,
+        "price": 1195.44,
+        "seller_id": "S101",
+        "city": "New York",
+        "order_month": "2024-05"
+    },
+    {
+        "customer_id": "C007",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 1054.58,
+        "seller_id": "S102",
+        "city": "New York",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C009",
+        "product": "webcam",
+        "quantity": 1,
+        "price": 186.88,
+        "seller_id": "S110",
+        "city": "Chicago",
+        "order_month": "2024-01"
+    },
+    {
+        "customer_id": "C009",
+        "product": "monitor",
+        "quantity": 4,
+        "price": 1008.08,
+        "seller_id": "S115",
+        "city": "San Antonio",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C008",
+        "product": "tablet",
+        "quantity": 5,
+        "price": 622.21,
+        "seller_id": "S109",
+        "city": "Philadelphia",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C015",
+        "product": "mouse",
+        "quantity": 2,
+        "price": 218.92,
+        "seller_id": "S118",
+        "city": "Chicago",
+        "order_month": "2024-09"
+    },
+    {
+        "customer_id": "C009",
+        "product": "keyboard",
+        "quantity": 1,
+        "price": 860.68,
+        "seller_id": "S103",
+        "city": "Chicago",
+        "order_month": "2024-05"
+    },
+    {
+        "customer_id": "C012",
+        "product": "webcam",
+        "quantity": 5,
+        "price": 902.01,
+        "seller_id": "S108",
+        "city": "Dallas",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C010",
+        "product": "speaker",
+        "quantity": 3,
+        "price": 576.98,
+        "seller_id": "S110",
+        "city": "Philadelphia",
+        "order_month": "2024-03"
+    },
+    {
+        "customer_id": "C015",
+        "product": "tablet",
+        "quantity": 4,
+        "price": 946.63,
+        "seller_id": "S114",
+        "city": "San Antonio",
+        "order_month": "2024-02"
+    },
+    {
+        "customer_id": "C008",
+        "product": "mouse",
+        "quantity": 2,
+        "price": 799.48,
+        "seller_id": "S106",
+        "city": "Dallas",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C017",
+        "product": "router",
+        "quantity": 2,
+        "price": 161.54,
+        "seller_id": "S103",
+        "city": "San Diego",
+        "order_month": "2024-12"
+    },
+    {
+        "customer_id": "C005",
+        "product": "mouse",
+        "quantity": 5,
+        "price": 1082.2,
+        "seller_id": "S103",
+        "city": "Los Angeles",
+        "order_month": "2024-04"
+    },
+    {
+        "customer_id": "C016",
+        "product": "tablet",
+        "quantity": 3,
+        "price": 995.08,
+        "seller_id": "S104",
+        "city": "San Francisco",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C017",
+        "product": "laptop",
+        "quantity": 4,
+        "price": 1074.67,
+        "seller_id": "S109",
+        "city": "San Antonio",
+        "order_month": "2024-10"
+    },
+    {
+        "customer_id": "C019",
+        "product": "router",
+        "quantity": 1,
+        "price": 1194.47,
+        "seller_id": "S120",
+        "city": "San Diego",
+        "order_month": "2024-08"
+    },
+    {
+        "customer_id": "C001",
+        "product": "keyboard",
+        "quantity": 3,
+        "price": 1460.49,
+        "seller_id": "S106",
+        "city": "New York",
+        "order_month": "2024-07"
+    },
+    {
+        "customer_id": "C015",
+        "product": "printer",
+        "quantity": 3,
+        "price": 1403.22,
+        "seller_id": "S103",
+        "city": "Dallas",
+        "order_month": "2024-04"
+    }
+]

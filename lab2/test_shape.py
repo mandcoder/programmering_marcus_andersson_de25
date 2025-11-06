@@ -100,5 +100,3 @@ def test_comparison_operators():
     assert c >= a
     assert b >= a
     assert not (a >= c)
-
-    # pusha denna när klockan ringer 30 min " comparison operatorer är tillagda"
