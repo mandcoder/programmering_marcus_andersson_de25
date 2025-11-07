@@ -6,10 +6,14 @@ from matplotlib.patches import Circle as matp_circle, Rectangle as matp_rectangl
 
 
 class Shape2dPlotter:
+    """Plots 2D shapes (Circle, Rectangle) using Matplotlib.
+
+    Validates that added objects are Shape instances.
+    Supports adding multiple shapes and drawing them
+    with consistent axis limits and grid.
+    """
 
     def __init__(self, shapes=None):
-
-        ## This if-else statement was provided by chatGPT even i did not ask for it
 
         if shapes is None:
             self.shapes = []
