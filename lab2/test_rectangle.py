@@ -1,3 +1,11 @@
+"""Unit tests for the Rectangle class.
+
+These tests ensure:
+- Width and height validation are correct.
+- Area and perimeter calculations are accurate.
+- Translation and representation behave as intended.
+"""
+
 import pytest
 from rectangle import Rectangle
 from shape import Shape
