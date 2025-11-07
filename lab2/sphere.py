@@ -1,20 +1,29 @@
+from shape3d import Shape3D
 import math
 
 
-class Sphere:
-    """Class representing a 3D sphere with radius, volume, surface area, and circumference."""
+class Sphere(Shape3D):
+    """Represents a 3D sphere with a given radius.
 
-    def __init__(self, radius):
+    Validates that radius is numeric and > 0.
+    Provides properties for volume, surface area,
+    and circumference.
+    """
 
+    def __init__(self, x: float, y: float, z: float, radius: float):
+        # Anropa basklassens konstruktor för att initiera koordinaterna
+        super().__init__(x, y, z)
+
+        # Validera att radius är ett tal
         if not isinstance(radius, (int, float)):
+            raise TypeError("radius must be a number (int or float)")
 
-            raise TypeError("radius must be a number greather than zero")
+        # Kontrollera att radius är större än noll
+        if radius <= 0:
+            raise ValueError("radius must be greater than zero")
 
-        elif radius <= 0:
-            raise ValueError("radius must be a number greater than zero")
-
-        else:
-            self.radius = radius
+        # Spara värdet
+        self.radius = radius
 
     @property
     def volume(self):
