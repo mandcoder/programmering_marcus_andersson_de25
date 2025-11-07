@@ -2,6 +2,12 @@ from shape import Shape
 
 
 class Rectangle(Shape):
+    """Represents a rectangle with width and height.
+
+    Validates that both are numeric and >= 0.
+    Provides properties for area, perimeter,
+    and a check if the rectangle is a square.
+    """
 
     def __init__(self, x, y, width, height):
         super().__init__(x, y)
