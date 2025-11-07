@@ -1,3 +1,11 @@
+"""Unit tests for the Shape3D class.
+
+These tests validate:
+- Initialization of 3D coordinates (x, y, z).
+- Type validation for all coordinates.
+- Correct handling of property setters and getters.
+"""
+
 import pytest
 from shape3d import Shape3D
 
