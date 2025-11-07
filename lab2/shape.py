@@ -1,5 +1,10 @@
 class Shape:
-    """Base class for all 2D shapes."""
+    """Base class for 2D shapes with x and y coordinates.
+
+    Validates numeric coordinates.
+    Provides translation, abstract area/perimeter,
+    and comparison operators based on area.
+    """
 
     def __init__(self, x: float, y: float):
 
