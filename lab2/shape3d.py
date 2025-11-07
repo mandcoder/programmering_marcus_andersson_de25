@@ -1,5 +1,10 @@
 class Shape3D:
-    """Base class for 3D geometric objects."""
+    """Base class for 3D shapes with x, y, z coordinates.
+
+    Validates numeric coordinates.
+    Provides abstract volume and surface_area properties,
+    and comparison operators based on volume.
+    """
 
     def __init__(self, x: float, y: float, z: float):
         self.x = x
