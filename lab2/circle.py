@@ -1,10 +1,14 @@
 from shape import Shape
-
-# Must import math to use "math.pi" to get an accurate value for pi.
 import math
 
 
 class Circle(Shape):
+    """Represents a circle with center (x, y) and radius.
+
+    Validates that radius is numeric and >= 0.
+    Provides properties for area, perimeter,
+    and a check if it's a unit circle.
+    """
 
     def __init__(self, x, y, radius):
         super().__init__(x, y)
