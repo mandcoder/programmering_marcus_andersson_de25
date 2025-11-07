@@ -1,3 +1,12 @@
+"""Unit tests for the Shape class.
+
+These tests verify that the Shape base class correctly handles:
+- Initialization of x and y coordinates.
+- Input validation for coordinate types.
+- Translation (moving) functionality.
+- Proper string and repr representations.
+"""
+
 import pytest
 from shape import Shape
 
@@ -19,7 +28,7 @@ class DummyShape(Shape):
         return self._area * 2  # arbitrary dummy formula
 
 
-# basic initialization and validation tests
+# basic initialization test
 def test_shape_initialization_valid():
     s = Shape(2, 3)
 
@@ -27,6 +36,7 @@ def test_shape_initialization_valid():
     assert s.y == 3
 
 
+# validation tests
 def test_invalid_x_type():
     with pytest.raises(TypeError):
         Shape("a", 2)
@@ -57,7 +67,7 @@ def test_shape_repr_and_str():
     assert "1" in t and "2" in t
 
 
-# check_shape test
+# check_shape tests
 def test_check_shape_true_for_shape_instance():
     s1 = Shape(0, 0)
     s2 = Shape(1, 1)
