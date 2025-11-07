@@ -1,3 +1,11 @@
+"""Unit tests for the Circle class.
+
+These tests verify that:
+- Radius validation is enforced.
+- Area and circumference calculations are correct.
+- Translation and string representation work as expected.
+"""
+
 import pytest
 import math
 from circle import Circle
