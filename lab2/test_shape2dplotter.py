@@ -1,3 +1,11 @@
+"""Unit tests for the Shape2dPlotter class.
+
+These tests verify:
+- Shape list initialization and addition.
+- Handling of Shape instances and type validation.
+- Plot rendering runs without errors.
+"""
+
 import pytest
 from shape2dplotter import Shape2dPlotter
 from shape import Shape
@@ -8,7 +16,7 @@ import matplotlib.pyplot as plt
 # Chatgpt helped me create this test file
 
 
-# basic initialization test
+# basic initialization tests
 def test_plotter_initialization_default():
     plotter = Shape2dPlotter()
     assert isinstance(plotter.shapes, list)
@@ -39,7 +47,9 @@ def test_add_invalid_shape():
 
 
 # draw_all tests
-def test_draw_all_runs_without_error(monkeypatch):
+def test_draw_all_runs_without_error(
+    monkeypatch,
+):  # monkeypatch is temporary replacer to functions during test
     """Ensures draw_all() executes fully without throwing errors."""
 
     plotter = Shape2dPlotter()
