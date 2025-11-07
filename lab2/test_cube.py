@@ -1,3 +1,12 @@
+"""Unit tests for the Cube class.
+
+These tests confirm that:
+- The Cube initializes with valid side length.
+- Volume and surface area are computed correctly.
+- Invalid dimensions raise appropriate exceptions.
+- String and repr outputs are formatted properly.
+"""
+
 import pytest
 from cube import Cube
 
