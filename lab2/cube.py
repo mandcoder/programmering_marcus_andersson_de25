@@ -1,9 +1,10 @@
-# jag behöver a som attribut, och som propertries behöver jag volume och ytarea
-# 1. variabeln "a" beskriver kubens dimmension
-# 2. volume and surface_area beskriver kubens egenskaper
-# volume och surface area beräknas automatiskt när de känner till a.
-#
 class Cube:
+    """Represents a cube with side length a.
+
+    Validates that a >= 0.
+    Provides properties for volume and surface area,
+    and readable string representations.
+    """
 
     def __init__(self, a):
 
